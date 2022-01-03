@@ -6,7 +6,7 @@
 
  body{
     line-height: 1.5;
-    color: rgb(61, 61, 60); /* body ke andar ka text exclude navbar */
+    color: rgb(61, 61, 60); /* only including those text which is inside the body ,excluded navbar */
     overflow-x: hidden;
 }
 #top-text{
@@ -177,7 +177,7 @@ margin-bottom: 2.5rem;
     margin-top: 60px;
     border-radius: 60%;
 }
-/* bindu banya isase */
+/* created dot with this  */
 .dot {
     float: left;
     margin-top: 1rem;
@@ -227,7 +227,7 @@ margin-bottom: 2.5rem;
  margin-bottom: 2rem;
 }
 
-/* project ki styling */
+/* styling the project */
 .p-style{
 
 
@@ -288,7 +288,7 @@ margin-bottom: 2.5rem;
     padding: 15px;
 }
 
-/* contact ki styling */
+/* styling the contact */
 #Contact {
 	padding: 4rem 0;
     /* background-color: lightblue; */
@@ -376,7 +376,7 @@ margin-bottom: 2.5rem;
 	left: 45%;
 }
 
-/* thanks visting ki styling */
+/* styling of thanks and visting  */
 .thnx{
     text-align: center;
     font-family: 'PT Serif', serif;
@@ -390,9 +390,9 @@ margin-bottom: 2.5rem;
 
 
 
-/* footor ki styling, matlb website ka sabse neeche ka hisa */
+/* Styling of footor , which is lowest part of website */
 footer{
-    /* copyright ki styling */
+    /* styling the copyright */
 
     background: rgb(0, 0, 0);
     color: white;
